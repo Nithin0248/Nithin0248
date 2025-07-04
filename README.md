@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7971E&width=440&lines=Developer+%7C+IoT+Engineer+%7C+Tech+Innovator;Arduino+%2B+Raspberry+Pi+Enthusiast;Building+Cool+Projects+that+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7971E&width=650&lines=Developer+%7C+IoT+Engineer+%7C+Tech+Innovator;Arduino+%2B+Raspberry+Pi+Enthusiast;Building+Cool+Projects+that+Matter" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nithin0248/Nithin0248/main/assets/dev-animation.gif" width="260px"/>
